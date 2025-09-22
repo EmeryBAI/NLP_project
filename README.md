@@ -21,7 +21,7 @@
 
 ## 💻 环境要求
 
-- Python 3.8+
+- Python 3.11+
 - CUDA 支持的 GPU
 - LLaMA Factory 框架
 
