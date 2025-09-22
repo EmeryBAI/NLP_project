@@ -1,0 +1,210 @@
+{
+    "model": "checkpoint-200_QWEN_25_7B",
+    "eval_type": "prompt",
+    "total": 8448,
+    "success": 1221,
+    "failed": 7227,
+    "accuracy": 14.45,
+    "per_language": {
+        "JA": {
+            "total": 212,
+            "success": 17,
+            "accuracy": 8.02
+        },
+        "UK": {
+            "total": 209,
+            "success": 55,
+            "accuracy": 26.32
+        },
+        "SL": {
+            "total": 179,
+            "success": 25,
+            "accuracy": 13.97
+        },
+        "DE": {
+            "total": 218,
+            "success": 15,
+            "accuracy": 6.88
+        },
+        "BCMS": {
+            "total": 214,
+            "success": 33,
+            "accuracy": 15.42
+        },
+        "SK": {
+            "total": 211,
+            "success": 30,
+            "accuracy": 14.22
+        },
+        "EL": {
+            "total": 205,
+            "success": 143,
+            "accuracy": 69.76
+        },
+        "NL": {
+            "total": 212,
+            "success": 18,
+            "accuracy": 8.49
+        },
+        "RO": {
+            "total": 221,
+            "success": 24,
+            "accuracy": 10.86
+        },
+        "ZH": {
+            "total": 432,
+            "success": 13,
+            "accuracy": 3.01
+        },
+        "HE": {
+            "total": 213,
+            "success": 13,
+            "accuracy": 6.1
+        },
+        "NO": {
+            "total": 224,
+            "success": 15,
+            "accuracy": 6.7
+        },
+        "ET": {
+            "total": 191,
+            "success": 16,
+            "accuracy": 8.38
+        },
+        "PL": {
+            "total": 205,
+            "success": 22,
+            "accuracy": 10.73
+        },
+        "BG": {
+            "total": 192,
+            "success": 42,
+            "accuracy": 21.88
+        },
+        "KO": {
+            "total": 209,
+            "success": 24,
+            "accuracy": 11.48
+        },
+        "RU": {
+            "total": 242,
+            "success": 32,
+            "accuracy": 13.22
+        },
+        "DA": {
+            "total": 216,
+            "success": 19,
+            "accuracy": 8.8
+        },
+        "LV": {
+            "total": 211,
+            "success": 49,
+            "accuracy": 23.22
+        },
+        "IT": {
+            "total": 222,
+            "success": 17,
+            "accuracy": 7.66
+        },
+        "FR": {
+            "total": 202,
+            "success": 17,
+            "accuracy": 8.42
+        },
+        "TR": {
+            "total": 205,
+            "success": 23,
+            "accuracy": 11.22
+        },
+        "ID": {
+            "total": 235,
+            "success": 16,
+            "accuracy": 6.81
+        },
+        "TH": {
+            "total": 240,
+            "success": 65,
+            "accuracy": 27.08
+        },
+        "CS": {
+            "total": 202,
+            "success": 29,
+            "accuracy": 14.36
+        },
+        "FI": {
+            "total": 197,
+            "success": 22,
+            "accuracy": 11.17
+        },
+        "SW": {
+            "total": 220,
+            "success": 37,
+            "accuracy": 16.82
+        },
+        "CA": {
+            "total": 185,
+            "success": 19,
+            "accuracy": 10.27
+        },
+        "EN": {
+            "total": 189,
+            "success": 4,
+            "accuracy": 2.12
+        },
+        "HI": {
+            "total": 211,
+            "success": 136,
+            "accuracy": 64.45
+        },
+        "SV": {
+            "total": 207,
+            "success": 14,
+            "accuracy": 6.76
+        },
+        "HU": {
+            "total": 233,
+            "success": 50,
+            "accuracy": 21.46
+        },
+        "CY": {
+            "total": 224,
+            "success": 31,
+            "accuracy": 13.84
+        },
+        "ES": {
+            "total": 217,
+            "success": 26,
+            "accuracy": 11.98
+        },
+        "LT": {
+            "total": 195,
+            "success": 38,
+            "accuracy": 19.49
+        },
+        "Pt-Br": {
+            "total": 217,
+            "success": 12,
+            "accuracy": 5.53
+        },
+        "VI": {
+            "total": 216,
+            "success": 17,
+            "accuracy": 7.87
+        },
+        "AR": {
+            "total": 195,
+            "success": 11,
+            "accuracy": 5.64
+        },
+        "DE-CH": {
+            "total": 210,
+            "success": 32,
+            "accuracy": 15.24
+        },
+        "PT": {
+            "total": 10,
+            "success": 0,
+            "accuracy": 0.0
+        }
+    }
+}

@@ -1,0 +1,9 @@
+DATA_PATH: /home/baihuiyu.bhy/huiyu_workspace/data/RPT_LX
+
+MODEL_PATH:
+  QWEN_25_7B: /home/baihuiyu.bhy/huiyu_workspace/models/qwen_25_7B
+  QWEN_3_8B: /home/baihuiyu.bhy/huiyu_workspace/models/qwen3_8b
+
+OUTPUT_PATH: /home/baihuiyu.bhy/huiyu_workspace/outputs
+
+LLAMA_FACTORY_PATH: /home/baihuiyu.bhy/llama_factory

@@ -1,0 +1,221 @@
+{"ResponseRaw": "", "Locale": "RO", "Index": 149, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 288, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 119, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 365, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 366, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 566, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 195, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 382, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 917, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 653, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 491, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 412, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 688, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 245, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 68, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 226, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 333, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 367, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 770, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 723, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 254, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 884, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 580, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 170, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 116, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 989, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 418, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 133, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 241, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 52, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 2\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 2\n  SexualContent: 1", "Locale": "RO", "Index": 784, "Error": false, "ResponseParsed": {"Toxic": 2, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 2, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 839, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 326, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 3, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 976, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 202, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 909, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 657, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 1\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 1\n  SexualContent: 1", "Locale": "RO", "Index": 674, "Error": false, "ResponseParsed": {"Toxic": 1, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 1, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 153, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 393, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 434, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 72, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 981, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 304, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 967, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 433, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 3\n  Bias: 3\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 840, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 3, "Bias": 3, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 728, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 598, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 409, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 98, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 287, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 654, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 93, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 183, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 794, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 552, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 625, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 294, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 443, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 640, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 441, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 902, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 896, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 912, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 699, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 755, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 576, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 250, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 870, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 360, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 220, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 661, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 453, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 404, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 913, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 819, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 923, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 732, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 246, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 704, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 472, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 12, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 511, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 703, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 504, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 982, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 405, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 925, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 165, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 179, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 897, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 361, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 891, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 462, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 49, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 828, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 3\n  Bias: 3\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 527, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 3, "Bias": 3, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 681, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 293, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 390, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 43, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 920, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 332, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 22, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 454, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 67, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 432, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 96, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 771, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 63, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 242, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 647, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 818, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 2\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 1\n  SexualContent: 1", "Locale": "RO", "Index": 707, "Error": false, "ResponseParsed": {"Toxic": 2, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 1, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 944, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 852, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 604, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 1\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 1\n  SexualContent: 1", "Locale": "RO", "Index": 988, "Error": false, "ResponseParsed": {"Toxic": 1, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 1, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 875, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 901, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 255, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 546, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 613, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 782, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 599, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 898, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 780, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 577, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 774, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 461, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 791, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 824, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 500, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 956, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 445, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 918, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 676, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 265, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 177, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 144, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 141, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 3\n  Bias: 3\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 203, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 3, "Bias": 3, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 481, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 411, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 634, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 608, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 790, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 658, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 4\n  IdentityAttack: 3\n  Bias: 3\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 869, "Error": false, "ResponseParsed": {"Toxic": 4, "IdentityAttack": 3, "Bias": 3, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 11, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 542, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 446, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 727, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 82, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 266, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 749, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 1\n  SexualContent: 3", "Locale": "RO", "Index": 383, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 1, "SexualContent": 3}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 167, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 812, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 3\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 163, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 3, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 40, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 991, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 181, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 765, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 118, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 343, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 617, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 4\n  IdentityAttack: 3\n  Bias: 3\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 264, "Error": false, "ResponseParsed": {"Toxic": 4, "IdentityAttack": 3, "Bias": 3, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 465, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 492, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 486, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 69, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 95, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 947, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 1\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 1\n  SexualContent: 1", "Locale": "RO", "Index": 473, "Error": false, "ResponseParsed": {"Toxic": 1, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 1, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 2, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 850, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 35, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 380, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 509, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 569, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 927, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 522, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 752, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 247, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 108, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 223, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 176, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 182, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 1\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 1\n  SexualContent: 1", "Locale": "RO", "Index": 151, "Error": false, "ResponseParsed": {"Toxic": 1, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 1, "SexualContent": 1}}
+{"ResponseRaw": "Response:\n  Toxic: 1\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 1\n  SexualContent: 1", "Locale": "RO", "Index": 873, "Error": false, "ResponseParsed": {"Toxic": 1, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 1, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 278, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "Response:\n  Toxic: 3\n  IdentityAttack: 1\n  Bias: 1\n  Microaggression: 1\n  Violence: 1\n  Self-harm: 1\n  Insult: 3\n  SexualContent: 1", "Locale": "RO", "Index": 124, "Error": false, "ResponseParsed": {"Toxic": 3, "IdentityAttack": 1, "Bias": 1, "Microaggression": 1, "Violence": 1, "Self-harm": 1, "Insult": 3, "SexualContent": 1}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 251, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 205, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 159, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 422, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 518, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 399, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 741, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 666, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 571, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 104, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 161, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 230, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 345, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 856, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 386, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 555, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 937, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 534, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 866, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 565, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 668, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 648, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 396, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 756, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 835, "Error": true, "ResponseParsed": {}}
+{"ResponseRaw": "", "Locale": "RO", "Index": 392, "Error": true, "ResponseParsed": {}}

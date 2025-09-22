@@ -1,0 +1,65 @@
+# Human annotation files:
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_AR.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_BCMS.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_BG.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_CA.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_CS.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_CY.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_DA.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_DE-CH.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_DE.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_EL.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_EN.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_ES.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_ET.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_FI.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_FR.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_HE.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_HI.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_HU.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_ID.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_IT.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_JA.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_KO.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_LT.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_LV.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_NL.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_NO.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_PL.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_PT.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_Pt-Br.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_RO.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_RU.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_SK.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_SL.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_SV.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_SW.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_TH.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_TR.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_UK.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_VI.jsonl
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/raw_outputs_new/QWEN_25_7B_results/results_ZH.jsonl
+
+# Model=QWEN_25_7B parsed inputs:
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/parsed_outputs/QWEN_25_7B_results/parsed_QWEN_25_7B_results.csv
+
+# Model=checkpoint-100_QWEN_25_7B parsed inputs:
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/parsed_outputs/checkpoint-100_QWEN_25_7B_results/parsed_checkpoint-100_QWEN_25_7B_results.csv
+
+# Model=checkpoint-200_QWEN_25_7B parsed inputs:
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/parsed_outputs/checkpoint-200_QWEN_25_7B_results/parsed_checkpoint-200_QWEN_25_7B_results.csv
+
+# Model=checkpoint-300_QWEN_25_7B parsed inputs:
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/parsed_outputs/checkpoint-300_QWEN_25_7B_results/parsed_checkpoint-300_QWEN_25_7B_results.csv
+
+# Model=checkpoint-400_QWEN_25_7B parsed inputs:
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/parsed_outputs/checkpoint-400_QWEN_25_7B_results/parsed_checkpoint-400_QWEN_25_7B_results.csv
+
+# Model=checkpoint-500_QWEN_25_7B parsed inputs:
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/parsed_outputs/checkpoint-500_QWEN_25_7B_results/parsed_checkpoint-500_QWEN_25_7B_results.csv
+
+# Model=checkpoint-1000_QWEN_25_7B parsed inputs:
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/parsed_outputs/checkpoint-1000_QWEN_25_7B_results/parsed_checkpoint-1000_QWEN_25_7B_results.csv
+
+# Model=checkpoint-1500_QWEN_25_7B parsed inputs:
+/home/baihuiyu.bhy/huiyu_workspace/outputs/inference/prompt/parsed_outputs/checkpoint-1500_QWEN_25_7B_results/parsed_checkpoint-1500_QWEN_25_7B_results.csv
